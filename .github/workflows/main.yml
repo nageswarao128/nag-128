@@ -29,7 +29,7 @@ jobs:
         with:
           token: "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"
           commit-message: Update report
-          committer: GitHub <nageswarao128@github.com>
+          committer: GitHub 'nageswarao128@github.com'
           author: ${{ github.actor }} <${{ github.actor }}@users.nageswarao128.github.com>
           signoff: false
           branch: example-patches
